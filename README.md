@@ -14,6 +14,8 @@ Then generate your new project:
 
 ```bash
 yo delete-example
+
+to see the bug, choose Y for the 2nd question which comes from the sub generator
 ```
 
 ## Getting To Know Yeoman
