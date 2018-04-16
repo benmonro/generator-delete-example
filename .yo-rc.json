@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ben Monro",
+      "authorEmail": "ben.monro@gmail.com",
+      "authorUrl": "https://github.com/benmonro"
+    }
+  }
+}
